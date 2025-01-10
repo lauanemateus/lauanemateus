@@ -1,16 +1,26 @@
-## Hi there 👋
+## Heloo, I am Lauane 👋
 
-<!--
-**lauanemateus/lauanemateus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently studying Computer Science at UFG
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: [lauanemo16@gmail.com](mailto:lauanemo16@gmail.com)
+|  📄 Know about my experiences [Resume](https://drive.google.com/file/d/1TBwBMdZ9adwkFrTLNhcQL8go5ndsOJYr/view?usp=sharing), [Linkedin](https://www.linkedin.com/in/lauane-mateus/)
+
+## Abilities and Interests
+
+- 🌐 Competitve programming, research, graph theory, problem solving, logic and math
+- 🎓 Experienced in competitive programming: C, C++
+- 📖 At college, I had contact with Java and Haskell
+
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lauanemateus&show_icons=true&locale=en&layout=compact" alt="lauanemateus" width="385"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=lauanemateus&show_icons=true&locale=en" alt="lauanemateus" width="500"/>
+    </td>
+  </tr>
+</table>

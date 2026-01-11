@@ -11,7 +11,7 @@
 
 - 🌐 Competitve programming, research, graph theory, problem solving, logic and math
 - 🎓 Experienced in competitive programming: C, C++
-- 📖 At college, I had contact with Java and Haskell
+- 💜 Now, I am an intern at Nubank
 
 
 <table>
